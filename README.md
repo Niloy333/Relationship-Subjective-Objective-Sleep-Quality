@@ -22,7 +22,7 @@ The multi-subject study, titled the [Healthy Brain Study (HBS)](https://doi.org/
 
 ## Mock Analysis
 
-The folder [*Preregistration_analyses_with_mock_data*](https://github.com/Niloy333/Relationship-Subjective-Objective-Sleep-Quality/tree/base/Preregistration_analyses_with_mock_data) contains the planned analyses on synthetic data. Please note that the results presented in these notebooks are not the project's actual outcomes; instead, they serve as a sketch of the analyses outlined in the project's preregistration.
+The folder [*Preregistration_analyses_with_mock_data*](https://github.com/Niloy333/Relationship-Subjective-Objective-Sleep-Quality/tree/base/Preregistration_analyses_with_mock_data) contains the planned analyses performed on synthetic data. Please note that the results presented in these notebooks are NOT the actual outcomes; instead, they serve as a sketch of the exact analyses outlined in the project's preregistration.
 
 ## Reference
 
