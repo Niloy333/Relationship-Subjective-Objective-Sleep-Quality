@@ -22,5 +22,6 @@ The multi-subject study, titled the [Healthy Brain Study (HBS)](https://doi.org/
 
 ## Reference
 
-A preregistration document with more details will be added soon.
+A preregistration document with more details on the project will be added soon.
 
+**The project is currently in progress, and more details will be added once it is complete.**
