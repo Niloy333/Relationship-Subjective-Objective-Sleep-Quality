@@ -28,4 +28,4 @@ The folder [*Preregistration_analyses_with_mock_data*](https://github.com/Niloy3
 
 A preregistration document with more details on the project will be added soon.
 
-**The project is currently in progress, and more details will be added once it is complete.**
+**The project is currently in progress; more details will be added once it is complete.**
