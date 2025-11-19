@@ -20,6 +20,10 @@ We will use two datasets to answer these research questions: one from a longitud
 
 The multi-subject study, titled the [Healthy Brain Study (HBS)](https://doi.org/10.1371/journal.pone.0260952), is a longitudinal study conducted by multiple research centers based at Radboud University, Nijmegen, the Netherlands. HBS is one of the most extensive studies to date involving healthy participants. The researchers collected extensive physical, mental, behavioral, and cognitive data from over 850 participants (aged 30 to 39) from the Greater Nijmegen region, representing diverse educational and financial backgrounds. However, in this study, we will use only sleep EEG recordings (for objective sleep quality measures) and participants’ responses to the Pittsburgh Sleep Quality Index (PSQI). Participants’ overnight sleep was monitored using the Zmax headband for three weeks (three one-week segments), and they filled in the PSQI questionnaire after each week of monitoring. Data collection took place between September 2019 and December 2023, and each participant was monitored for 1–1.5 years. Out of the over 850 participants who took part in the study, ≈720 continued for the entire three weeks, and we (primarily) aim to include only those participants in our analysis. This HBS will reflect the interplay between subjective and objective sleep quality across different subjects. No new data will be collected for the study.
 
+## Mock Analysis
+
+The folder [*Preregistration_analyses_with_mock_data*](https://github.com/Niloy333/Relationship-Subjective-Objective-Sleep-Quality/tree/base/Preregistration_analyses_with_mock_data) contains the planned analyses on synthetic data. Please note that the results presented in these notebooks are not the project's actual outcomes; instead, they serve as a sketch of the analyses outlined in the project's preregistration.
+
 ## Reference
 
 A preregistration document with more details on the project will be added soon.
