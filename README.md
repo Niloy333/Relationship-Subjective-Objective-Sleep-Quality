@@ -8,11 +8,14 @@ In this study, we will address the following research questions:
 2. How well do subjective sleep quality and objective sleep quality correlate across subjects?
 3. How well do specific objective measures of sleep quality predict subjective sleep quality?
 
-<sup>*</sup>Objective sleep quality is a complex phenomenon and currently lacks a universally established definition. In this study, we will use total sleep time (TST), sleep onset latency (SOL), wake after sleep onset (WASO), and sleep efficiency (SE) as measures that individually represent objective sleep quality. These terms are defined as follows:	
+<sup>*</sup>Objective sleep quality is a complex phenomenon and currently lacks a universally established definition. In this study, we will use total sleep time (TST), sleep onset latency (SOL), wake after sleep onset (WASO), and sleep efficiency (SE) as measures that individually represent objective sleep quality. These terms are defined as follows:
+
  - TST: The total duration (in minutes) spent asleep during the period between the first and last non-wake epochs. In this study, we will use 30-second epochs for sleep scoring.
  - SOL: The time (in minutes) between lying down on the bed and achieving the first non-wake epoch.
  - WASO: Total duration (in minutes) spent awake between the first and last non-wake epochs.
  - SE: The ratio of TST and total time (spent) in bed or TIB.
+ - DS: Total duration (in minutes) of deep sleep throughout the night.
+ - RS: Total duration (in minutes) of REM sleep throughout the night.
 
 ## Data
 
@@ -26,6 +29,6 @@ The folder [*Preregistration_analyses_with_mock_data*](https://github.com/Niloy3
 
 ## Reference
 
-A preregistration document with more details on the project will be added soon.
+Sikder, N., Zerr, P., Krauledat, M., & Dresler, M. (2026, January 13). Relationship Between Subjective and Objective Sleep Quality Across a Densely Sampled Single-Subject Study and a Cross-Sectional Multi-Subject Cohort Study. OSF Registries. https://doi.org/10.17605/OSF.IO/S3VJT
 
 **The project is currently in progress; more details will be added once it is complete.**
